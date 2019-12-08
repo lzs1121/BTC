@@ -1,5 +1,7 @@
 run: npm i.
+
 run: npm start.
+
 run: npm test, for test the api.
 
 The default route is the posts.
