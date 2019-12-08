@@ -1,6 +1,6 @@
-run: npm i 
-run: npm start
-run: npm test, for test the ap
+run: npm i;
+run: npm start;
+run: npm test, for test the ap;
 
 The default route is the posts.
 Click post button to post.
